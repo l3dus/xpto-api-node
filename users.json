@@ -1,0 +1,84 @@
+[ 
+    {
+        
+        "info": {
+            "username": "Lsouza34",
+            "address": "Avenida Assis Brasil 2161",
+            "birthdate": {
+                "$date": "1994-10-10T03:00:00.000Z"
+            },
+            "document": "00011122233",
+            "email": "lucas@hotmail.com",
+            "firstname": "Lucas",
+            "lastname": "Souza",
+            "phoneNumber": "+5551999999999"
+        },
+        "createdAt": {
+            "$date": "2019-01-23T13:10:24.427Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5a5548a1020a2c1d6c70a355"
+        },
+        "info": {
+            "username": "Abc10",
+            "address": "Avenida Protásio Alves 1558",
+            "birthdate": {
+                "$date": "2000-05-11T03:00:00.000Z"
+            },
+            "document": "11100022233",
+            "email": "Abner@gmail.com",
+            "firstname": "Abner",
+            "lastname": "Bastos Castro",
+            "phoneNumber": "+5551988888888"
+        },
+        "createdAt": {
+            "$date": "2019-01-24T13:10:24.427Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "1c4437f0919b1d2d5c70b466"
+        },
+        "info": {
+            "username": "Ben10",
+            "address": "Rua Ari 58",
+            "birthdate": {
+                "$date": "1987-01-01T03:00:00.000Z"
+            },
+            "document": "33300022211",
+            "email": "Ben.dez@yahoo.com",
+            "firstname": "Benício",
+            "lastname": "Silva Silva",
+            "phoneNumber": "+5551977777777"
+        },
+        "createdAt": {
+            "$date": "2018-02-24T13:10:24.427Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "3e6659b2131d3a5a7e92d688"
+        },
+        "info": {
+            "username": "Paulinho55",
+            "address": "Rua Tapajós 231, ap: 135",
+            "birthdate": {
+                "$date": "1998-02-02T03:00:00.000Z"
+            },
+            "document": "33322211100",
+            "email": "Paulo55@msn.com",
+            "firstname": "Paulo",
+            "lastname": "Santos Santos",
+            "phoneNumber": "+5551966666666"
+        },
+        "createdAt": {
+            "$date": "2018-03-25T13:10:24.427Z"
+        },
+        "__v": 0
+    }
+]
